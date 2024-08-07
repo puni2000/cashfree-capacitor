@@ -1,0 +1,7 @@
+{
+  "name": "cashfreedemo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
